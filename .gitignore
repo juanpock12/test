@@ -156,5 +156,5 @@ vite.config.ts.timestamp-*
 .nx/workspace-data
 .nx/migrate-runs
 
-
-.Identifier
+# Windows download markers (created when files are downloaded from the internet)
+*Zone.Identifier
